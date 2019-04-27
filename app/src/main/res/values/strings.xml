@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">BulkSMS</string>
+    <string name="title_activity_home" tools:ignore="ExtraTranslation">SMS</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Bulk SMS</string>
+    <string name="nav_header_subtitle">bulk.sms@cseku.ac.bd</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="MGS">Dear XXX\n...\n From Y\n</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="menu_title">Create Template</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_create_group">CreateGroupActivity</string>
+</resources>

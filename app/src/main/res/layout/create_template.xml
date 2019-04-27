@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/dialogTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:text="Create Template"
+        android:layout_marginBottom="30dp"
+        android:textColor="@color/colorPrimaryDark"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp">
+        <EditText
+            android:id="@+id/templateTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Title"
+            android:inputType="textMultiLine" />
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp">
+        <EditText
+            android:id="@+id/templateMsg"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/MGS"
+            android:inputType="textMultiLine" />
+    </android.support.design.widget.TextInputLayout>
+</LinearLayout>

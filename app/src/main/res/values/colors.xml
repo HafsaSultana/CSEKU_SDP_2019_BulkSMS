@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>    <color name="colorPrimary">#880f8f</color>
+    <color name="colorPrimaryDark">#0a0a0d</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="Blue1">#4527A0</color>
+    <color name="title_color">#ffffff</color>
+    <color name="BlueDeep">#311B92</color>
+
+    <color name="PinkDeep">#D81B60</color>
+
+    <color name="deeppurple">#D81B</color>
+
+    <color name="c1">#F8BBD0</color>
+
+    <color name="c2">#F8BBD0</color>
+
+    <color name="c3">#AB47BC</color>
+
+    <color name="c4">#CE93D8</color>
+
+    <color name="c5">#64B5F6</color>
+
+    <color name="c6">#7C4DFF</color>
+
+    <color name="Black">#000000</color>
+</resources>
